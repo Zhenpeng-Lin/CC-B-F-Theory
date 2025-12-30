@@ -55,6 +55,8 @@ Official archived version with DOI (for citation):
 
 ## 📚 More Research by the Author (作者其他研究)
 
+*Note: The full texts of the papers listed below are currently authored in **Chinese**. International readers are kindly advised to use translation tools (e.g., DeepL or Google Translate) for review.*
+
 If you found the CC-B-F theory interesting, you might also like my other works on Zenodo, covering Cognitive Science, Thermodynamics, and AI Alignment.
 (如果您对本理论感兴趣，欢迎阅读我在 Zenodo 上的其他 13 篇论文)：
 
