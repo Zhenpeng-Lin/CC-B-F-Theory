@@ -1,1 +1,19 @@
-
+cff-version: 1.2.0
+message: "If you use this theory, please cite it as below."
+authors:
+- family-names: "Lin"
+  given-names: "Zhenpeng"
+  orcid: "https://orcid.org/0009-0003-1770-2543"
+title: "Cognitive Configuration-Barrier-Field (CC-B-F) Theory"
+version: 2.0
+date-released: 2025-12-21
+url: "https://github.com/Zhenpeng-Lin/CC-B-F-Theory"
+preferred-citation:
+  type: report
+  authors:
+  - family-names: "Lin"
+    given-names: "Zhenpeng"
+  title: "认知构型-壁垒-场域理论（CC-B-F）2.0"
+  year: 2025
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.18009961"
