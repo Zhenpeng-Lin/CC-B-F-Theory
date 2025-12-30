@@ -33,27 +33,31 @@ The model formalizes three components:
 ```mermaid
 mindmap
   root((CC-B-F Theory 2.0))
-    Core Shift
+    Core_Shift(Core Shift)
+      ::icon(fa fa-sync)
       Truth Seeking -> Homeostasis
       Survival Oriented
-    Three Components
+    Three_Components(Three Components)
+      ::icon(fa fa-cubes)
       CC: Configuration
         Vector Space
         Self as Origin
         Structural Complexity
       CB: Barrier
         Active Gating
-        Interaction (D x T)
+        Interaction D x T
         Defense & Confirmation
       CF: Field
         Social Entropy
         Structural Distortion
-    Dynamics
-      Homeostasis (Potential Well)
-      Restructuring (Phase Transition)
-    Validation & Apps
-      Hypotheses (H1-H8)
-      AI Alignment (Configuration vs Barrier)
+    Dynamics(Dynamics)
+      ::icon(fa fa-chart-line)
+      Homeostasis Potential Well
+      Restructuring Phase Transition
+    Validation_Apps(Validation & Apps)
+      ::icon(fa fa-check-circle)
+      Hypotheses H1-H8
+      AI Alignment
       MVEM & ABM
 
 ```
