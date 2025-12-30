@@ -52,3 +52,24 @@ Official archived version with DOI (for citation):
 - `/papers`: PDF versions
 - `/images`: Diagrams and mind maps
 - `/docs`: Supplementary materials (coming soon)
+
+## 📚 More Research by the Author (作者其他研究)
+
+If you found the CC-B-F theory interesting, you might also like my other works on Zenodo, covering Cognitive Science, Thermodynamics, and AI Alignment.
+(如果您对本理论感兴趣，欢迎阅读我在 Zenodo 上的其他 13 篇论文)：
+
+- **[Cognitive Color Translator (CCT) Model (认知颜色翻译器模型)](https://doi.org/10.5281/zenodo.18010203)**
+- **[Recursive Entropy Dynamics & Topological Phase Transition (递归熵动力学与拓扑相变)](https://doi.org/10.5281/zenodo.18010338)**
+- **[Purification Engine for High-Entropy Systems (高熵系统的净化引擎)](https://doi.org/10.5281/zenodo.18010419)**
+- **[Neural Semantic Hysteresis & Metastable Dynamics via Non-Hermitian Attention (基于非厄米注意力机制的神经语义磁滞与亚稳态动力学)](https://doi.org/10.5281/zenodo.18010508)**
+- **[Project Turing: Zero Cognitive Load AI Architecture (图灵计划：零认知负荷 AI 架构)](https://doi.org/10.5281/zenodo.18010769)**
+- **[EICM-Ω: Entropy Increase Countermeasure Model (EICM-Ω)](https://doi.org/10.5281/zenodo.18011298)**
+- **[Social Topological Phase Transition in High-Shear Environments (高剪切环境下的社会拓扑相变)](https://doi.org/10.5281/zenodo.18011373)**
+- **[Generalized Metric Variable Dynamics (广义度规变量动力学)](https://doi.org/10.5281/zenodo.18011423)**
+- **[Decoupled Synergy on Neural Manifolds (神经流形上的解耦协同)](https://doi.org/10.5281/zenodo.18011514)**
+- **[Introduction to Planetary Computing (TCN) (行星计算导论)](https://doi.org/10.5281/zenodo.18011582)**
+- **[Evolutionary Singularity & Semiotic Barriers (演化奇点与符号学屏障)](https://doi.org/10.5281/zenodo.18011666)**
+- **[Offline Backup of Civilization & Thermodynamic Compensation (文明的离线备份与热力学补偿)](https://doi.org/10.5281/zenodo.18068571)**
+- **[Cognitive Invasion: Memetic Weapon Defense (认知入侵)](https://doi.org/10.5281/zenodo.18011855)**
+
+👉 **[View Full Portfolio on Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Lin%2C%20Zhenpeng%22)**
