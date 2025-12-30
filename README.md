@@ -30,7 +30,7 @@ The model formalizes three components:
 
 ## 🗺️ Visual Overview
 
-![CC-B-F Theory Visual Overview](images/mindmap_v2.svg)
+![CC-B-F Theory Visual Overview](https://github.com/user-attachments/assets/bca1a96d-7d87-46dc-a19b-8bcb1c606d9c)
 
 ## 🔑 Key Components & Innovations
 - **Thermodynamic Basis**: Entropy management in an affective field.
